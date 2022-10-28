@@ -15,7 +15,6 @@ import java.util.Scanner;
 
 //Using skip()-> if scanner is defined as from a string "..a-word" pattern can be used(also you need to put dot how many character it contains before that "a-word"
 // but if it is defined as System.in,you should use it as ".*a-word"(!!but also finds every "a-word" then cuts out the string).So better use -> " .* "
-
 //
 //            If you meat \n\r
 //                    or |
