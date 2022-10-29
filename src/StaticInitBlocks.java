@@ -1,5 +1,5 @@
 import java.util.Scanner;
-
+//https://www.c-sharpcorner.com/UploadFile/3614a6/static-initialization-block-in-java/#:~:text=A%20Static%20Initialization%20Block%20in,the%20main%20method(%20)%20regardless.
 public class StaticInitBlocks {
     static int b,h,area;
     static boolean flag=false;
